@@ -1,7 +1,7 @@
 # Plotting Closing Prices using Pandas and Alpha Vantage
 A project utilizing Alpha Vantage stock API and the Pandas library to plot hourly closing stock prices in an HTML page. 
 
-Running the cells in Jupyter notebook will generate a CSV of stock data, as well as an HTML page where plots of the closing prices are plotted hourly. This project was a test of Pandas using stock data from the Alpha vantage API. The HTML page is pretty basic, but it just meant to be a simple representation of our data. All files are generated where the .ipynb file is located. 
+Running the cells in Jupyter notebook will generate a CSV of stock data, as well as an [HTML page](https://htmlpreview.github.io/?https://github.com/mikepando/Alpha-Vantage-Pandas/blob/master/Project_files/av_project.html) where plots of the closing prices are plotted hourly. This project was a test of Pandas using stock data from the Alpha vantage API. The HTML page is pretty basic, but it just meant to be a simple representation of our data. All files are generated where the .ipynb file is located. 
 
 ### Prerequisites
 The only requirements needed to run this project file are:
