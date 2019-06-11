@@ -23,4 +23,4 @@ Get a free API key for JSON and CSV formats, to access realtime and historical s
 * [Jupyter](https://jupyter.org/) - Software used to create code using Python
 
 ## Disclaimer
-This was made for educational purposes. It is not meant to be complex but was intended to test Python alongside the Pandas library.
+This was made for educational purposes. It is not meant to be complex but was intended to test Python alongside the Pandas library.  This was for the CIS 431 Design and Analysis course at Manhattan College.
